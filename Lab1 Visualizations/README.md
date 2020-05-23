@@ -1,1 +1,1 @@
-This folder contains
+This folder contains all the data and R code used for the blog How Does COVID 19 Affect Different Age Groups and Genders? Simple Visualizations are done using R. Link to my blog:https://medium.com/@jaswanth.badvelu/how-does-covid-19-affect-different-age-groups-and-genders-8347155a189
