@@ -1,0 +1,76 @@
+library(readxl)
+library(tidyverse) 
+library(plyr)
+library(dplyr)
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(sqldf)
+library(reshape2)
+library(gganimate)
+covid_data <- read_excel("C:/Users/Jaswanth/Desktop/DataManagement/covid_data.xlsx") 
+
+#Filtering gender with Male and Female
+total_Gender=filter(covid_data,Gender=='Male'| Gender=='Female')
+
+#Filtering people who are vulnerable according to age group
+
+ggplot(total_Gender, aes(x= Age_group,group=Gender)) + 
+  geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat="count") + theme_minimal()+
+  geom_text(aes( label = scales::percent(..prop..),
+                 y= ..prop.. ), stat= "count", vjust = -.8) + 
+  facet_grid(~Gender) +
+  scale_y_continuous(labels = scales::percent)+
+  labs(fill = "Age Group", y = "Percentage of people affected",title="Percent of People Affected According to Age Group")
+
+#Filtering people who died according to age group
+
+total_death=filter(total_Gender,Death_num =="1")
+ggplot(total_death, aes(x= Age_group,  group=Gender)) + 
+  geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat="count") + theme_minimal()+
+  geom_text(aes( label = scales::percent(..prop..),
+                 y= ..prop.. ), stat= "count", vjust = -.8) +
+  facet_grid(~Gender) +
+  scale_y_continuous(labels = scales::percent)+
+  labs( fill = "Age Group", y = "Percentage of people dead",title="Fatality Rate of People According to Age Group")
+
+
+
+#Mode of transmission for different age groups
+
+ggplot(total_death, aes(x= Age_group,group=Transmission_status)) + 
+  geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat="count",width = 0.8) + theme_minimal()+
+  geom_text(aes( label = scales::percent(..prop..),
+                 y= ..prop.. ), stat= "count", vjust = -1) +
+  labs(fill = "Age Group", y = "Percentage of people affected")+
+  facet_grid(~Transmission_status) +
+  scale_y_continuous(labels = scales::percent)
+  
+#People  Hospitalized
+ggplot(total_Gender, aes(x= Age_group,y=Hospitalization,group=Gender)) + 
+  geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat="count") + theme_minimal()+
+  geom_text(aes( label = scales::percent(..prop..),
+                 y= ..prop.. ), stat= "count", vjust = -.8) +
+  facet_grid(~Gender) +
+  scale_y_continuous(labels = scales::percent)+
+  labs(x = "Different Age Group", y = "Percentage of people affected")
+  
+
+#People who got admitted in Hospital and survived
+total_ICU=filter(covid_data,((Intensive_care_unit_status=='Yes'|Intensive_care_unit_status=='No')& Hospitalization=='1'& Death_status=='No'))
+
+animation1 <- ggplot(total_ICU, aes(x= Age_group,fill = Intensive_care_unit_status)) + 
+  geom_bar(position=position_dodge(width=0.7)) +geom_text(aes(label=..count..),stat='count',position=position_dodge(width=0.7),vjust = 1) +
+  labs(x = "Younger population")+transition_states(Age_group,transition_length=2,state_length=1)+shadow_mark()+enter_fade()+
+  exit_fade()
+animate(animation1, nframes=100, end_pause=50, rewind= FALSE)
+  
+#People who admitted in ICU and died 
+total_ICU_death=filter(covid_data,((Intensive_care_unit_status=='Yes'|Intensive_care_unit_status=='No')& Hospitalization=='1'& Death_status=='Yes'))
+
+animation2 <- ggplot(total_ICU_death, aes(x= Age_group,fill = Intensive_care_unit_status)) + 
+  geom_bar(position=position_dodge(width=0.7)) +geom_text(aes(label=..count..),stat='count',position=position_dodge(width=0.7),vjust = 1) +
+  labs(x = "Younger population",title='Population who got admitted in Hospital but still Died')+transition_states(Age_group,transition_length=2,state_length=1)+shadow_mark()+enter_fade()+
+  exit_fade()
+animate(animation2, nframes=100, end_pause=50, rewind= FALSE)
+
