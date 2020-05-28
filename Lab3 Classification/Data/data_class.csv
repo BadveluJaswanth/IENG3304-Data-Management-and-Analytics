@@ -1,0 +1,1989 @@
+﻿Case identifier number,Asymptomatic,Age_group,Death,Gender,Hospital_status,Occupation,Recovered,Region,Transmission
+1,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+2,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+3,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+4,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+5,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+6,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+7,No,60-69,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+8,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+9,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+10,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+11,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+12,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+13,No,40-49,No,Female,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+14,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+15,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+16,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+17,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+18,No,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+19,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+20,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+21,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+22,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+23,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+24,No,40-49,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+25,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+26,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+27,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+28,No,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+29,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+30,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+31,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+32,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+33,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+34,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+35,No,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+36,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+37,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+38,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+39,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+40,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+41,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+42,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+43,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+44,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+45,No,50-59,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+46,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+47,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+48,No,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+49,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+50,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+51,No,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+52,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+53,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+54,No,20-29,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+55,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+56,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+57,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Travel History
+58,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+59,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+60,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+61,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+62,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+63,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+64,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+65,No,0-19,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+66,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+67,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+68,No,80+,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+69,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+70,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+71,No,70-79,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+72,No,80+,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+73,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+74,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+75,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+76,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+77,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+78,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+79,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+80,No,80+,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+81,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,BC,Community Spread
+82,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+83,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+84,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Atlantic,Community Spread
+85,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Prairies,Community Spread
+86,No,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+87,No,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+88,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+89,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+90,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+91,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+92,No,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+93,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+94,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+95,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+96,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+97,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+98,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+99,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+100,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+101,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+102,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+103,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+104,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+105,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+106,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+107,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+108,No,30-39,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+109,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+110,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+111,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+112,No,70-79,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+113,No,50-59,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+114,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+115,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+116,No,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+117,No,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+118,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+119,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+120,No,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+121,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+122,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+123,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+124,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+125,No,70-79,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+126,No,30-39,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+127,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+128,No,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+129,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+130,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+131,No,60-69,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+132,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+133,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+134,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+135,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+136,No,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+137,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+138,No,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+139,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+140,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+141,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+142,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+143,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+144,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+145,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+146,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+147,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+148,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+149,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+150,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+151,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+152,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+153,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+154,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+155,No,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+156,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+157,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+158,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+159,No,20-29,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+160,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+161,No,50-59,No,Female,Not Hospitalized,Day Care worker,Not Stated,BC,Community Spread
+162,No,70-79,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+163,No,50-59,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+164,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+165,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+166,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+167,No,50-59,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+168,No,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,BC,Community Spread
+169,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+170,No,20-29,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+171,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+172,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+173,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+174,No,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+175,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+176,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+177,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+178,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+179,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+180,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+181,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+182,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+183,No,80+,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+184,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+185,No,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+186,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+187,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+188,No,50-59,No,Female,Hospitalized but not in ICU,Health Care worker,Yes,Ontario,Travel History
+189,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+190,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+191,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+192,No,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,BC,Community Spread
+193,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+194,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+196,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+197,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+198,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+199,No,60-69,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+200,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+201,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+202,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+203,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+204,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+205,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+206,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+207,Yes,70-79,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+208,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+209,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+210,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+211,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+212,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+213,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+214,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+215,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+216,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+217,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+218,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+219,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+220,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+221,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+222,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+223,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+224,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+225,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+226,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+227,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+228,Yes,20-29,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+229,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+230,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+231,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+232,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+233,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+234,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+235,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+236,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+237,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+238,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+239,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+240,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+241,Yes,70-79,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Atlantic,Community Spread
+242,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+243,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+244,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+245,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+246,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+247,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+248,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+249,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+250,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+251,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+252,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+253,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+254,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+255,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+256,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+257,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+258,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+259,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+260,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+261,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+262,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+263,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+264,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+265,Yes,70-79,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+266,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+267,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+268,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+269,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+270,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+271,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+272,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+273,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+275,No,20-29,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+276,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+277,No,40-49,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+278,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+279,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+280,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+281,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+282,Yes,70-79,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+283,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+284,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+285,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+286,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+287,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+288,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+289,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+290,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+291,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+292,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+293,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+294,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+295,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+296,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+297,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+298,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+299,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+300,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Prairies,Community Spread
+301,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+302,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+303,Yes,30-39,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+304,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+305,Yes,20-29,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+306,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+307,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+308,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+309,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+310,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+311,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+312,Yes,60-69,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+313,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+314,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+315,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+316,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+317,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+318,Yes,80+,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+319,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Prairies,Travel History
+320,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+321,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+322,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+323,Yes,50-59,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+324,Yes,80+,Yes,Female,Not Hospitalized,Long Term Care worker,No,Atlantic,Community Spread
+325,Yes,70-79,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+326,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+327,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+328,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+329,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+330,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+331,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+332,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,No,Prairies,Community Spread
+333,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+334,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+335,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+336,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+337,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+338,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+339,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+340,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+341,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+342,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+343,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+344,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+345,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+346,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+347,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+348,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+349,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+350,No,40-49,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+352,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+353,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+354,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+355,Yes,20-29,No,Female,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+356,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+357,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+358,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+359,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+360,Yes,80+,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+361,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+362,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+363,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+364,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+365,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+366,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+367,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+368,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+369,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+370,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+371,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+372,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+373,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+374,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+375,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+376,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+377,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+378,Yes,80+,No,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+379,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+380,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+381,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+382,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+383,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+384,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+385,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+386,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+387,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+388,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+389,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+390,No,20-29,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+391,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+392,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+393,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+394,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+395,No,30-39,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+396,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+397,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+398,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+399,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+400,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+401,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+402,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+403,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+404,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+405,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+406,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+407,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+408,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+409,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+410,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+411,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+412,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+413,Yes,70-79,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+414,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+415,Yes,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+416,Yes,60-69,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+417,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+418,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+419,Yes,30-39,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+420,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+421,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+422,No,70-79,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+423,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+424,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+425,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+426,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+427,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+428,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+429,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+430,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+431,No,60-69,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+432,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+433,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+434,Yes,50-59,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+435,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+436,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+437,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+438,No,50-59,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+439,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+440,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+441,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+442,Yes,80+,No,Female,Hospitalized but not in ICU,Health Care worker,Yes,Ontario,Travel History
+443,Yes,70-79,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+444,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+445,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+446,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+447,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+449,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+450,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+451,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+452,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+453,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+454,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+455,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+456,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+457,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+458,Yes,20-29,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+459,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+460,No,20-29,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+461,Yes,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+462,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+463,Yes,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+464,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+465,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+467,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+468,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+469,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+470,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+471,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+472,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+473,Yes,50-59,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+474,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+475,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+476,Yes,80+,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+477,Yes,0-19,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+478,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+479,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+480,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+481,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+482,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+483,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+484,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+485,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+486,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+487,No,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+488,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+489,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Atlantic,Community Spread
+490,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+491,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+492,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+493,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+494,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+495,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+496,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+497,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+498,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+499,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+500,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+501,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+502,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+503,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+504,No,30-39,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+505,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+506,No,70-79,Yes,Female,Hospitalized but not in ICU,Other,No,Atlantic,Community Spread
+507,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+508,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+509,Yes,20-29,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+510,Yes,70-79,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+511,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+512,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+513,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+514,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+515,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+516,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+517,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+518,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+519,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+520,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+521,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+522,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+523,Yes,30-39,No,Female,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+524,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+525,No,60-69,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+526,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+527,No,60-69,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+528,Yes,40-49,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+529,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+530,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+531,No,70-79,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+532,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+533,No,40-49,No,Male,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+534,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+535,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+536,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+537,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+538,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+539,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+540,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+541,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+542,Yes,60-69,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+543,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+544,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+545,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+546,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+547,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Travel History
+548,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+549,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+550,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+551,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+552,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+553,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+554,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+555,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+556,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+557,No,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+558,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+559,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Travel History
+560,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+561,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+562,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+563,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+564,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+565,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+566,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+567,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+568,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+569,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+570,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+571,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+572,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+573,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+574,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+575,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+576,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+577,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+578,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+579,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+580,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+581,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+582,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+583,Yes,0-19,No,Female,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+584,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+585,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+586,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+587,Yes,50-59,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+588,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+589,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+590,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+591,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+592,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+593,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+594,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+595,Yes,50-59,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+596,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+597,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+598,Yes,80+,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+599,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+600,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+601,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+602,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+603,Yes,60-69,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+604,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+605,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+606,No,70-79,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+607,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+608,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+609,Yes,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+610,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+611,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+612,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+613,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+614,Yes,20-29,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+615,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+616,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+617,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+618,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+619,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+620,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+621,Yes,0-19,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+622,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+623,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+624,Yes,50-59,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+625,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+626,No,0-19,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+627,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+628,Yes,70-79,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Travel History
+629,No,30-39,No,Female,Not Hospitalized,Other,Yes,BC,Travel History
+630,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+631,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+632,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+633,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+634,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+635,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+636,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+637,No,50-59,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+638,Yes,70-79,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+639,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+640,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+641,Yes,50-59,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+642,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+643,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+644,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+645,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+646,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+647,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+648,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+649,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+650,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+651,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+652,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+653,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+654,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+655,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+656,No,40-49,No,Female,Hospitalized but not in ICU,Other,Yes,Atlantic,Community Spread
+657,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+658,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+659,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+660,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+661,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+662,Yes,70-79,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+663,No,20-29,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+664,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+665,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+666,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,BC,Community Spread
+667,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+668,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+669,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+670,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+671,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+672,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+673,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+674,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+675,Yes,50-59,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+676,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+677,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+678,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+679,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+680,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+681,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+682,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+683,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+684,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+685,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+686,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+687,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+688,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+689,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+690,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+691,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+692,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+693,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+694,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+695,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+696,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+697,Yes,70-79,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+698,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+699,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+700,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+701,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+702,Yes,70-79,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+703,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+704,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+705,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+706,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+707,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+708,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+709,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+710,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+711,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+712,No,30-39,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+713,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+714,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+715,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+716,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Atlantic,Community Spread
+717,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+718,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+719,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+720,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,BC,Travel History
+721,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+722,No,20-29,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+723,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+724,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+725,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+726,No,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+727,Yes,70-79,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+728,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+729,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+730,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+731,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+732,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+733,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+735,Yes,60-69,No,Male,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+736,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+737,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+738,Yes,70-79,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+739,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+740,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+741,No,70-79,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+742,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+743,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+744,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+745,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+746,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+747,Yes,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+748,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+749,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+750,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+751,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+752,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+753,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+754,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+755,Yes,60-69,No,Female,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+756,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+757,No,40-49,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+758,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+759,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+760,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,BC,Travel History
+761,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+762,Yes,20-29,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+763,Yes,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+764,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+765,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+766,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+767,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+768,Yes,80+,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+769,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+770,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+771,Yes,60-69,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+772,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+773,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+774,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+775,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+776,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+777,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+778,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+779,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+780,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+781,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+782,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+783,No,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Prairies,Community Spread
+784,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+785,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+786,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+787,Yes,40-49,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+788,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+789,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+790,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+791,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+792,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+793,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+794,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+795,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+796,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+797,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+798,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+799,No,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+800,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+801,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+802,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+803,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+804,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+805,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+806,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+807,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+808,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+809,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+810,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+811,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Yes,Ontario,Community Spread
+812,No,30-39,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+813,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+814,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+815,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+816,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+817,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+818,No,80+,No,Male,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+819,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+820,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+821,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+822,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+823,Yes,80+,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+824,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+825,No,40-49,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+826,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+827,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+828,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+829,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+830,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+831,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+832,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+833,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+834,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+835,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+836,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+837,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+838,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+839,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+840,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+841,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+842,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+843,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+844,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+845,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+846,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+847,No,70-79,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+848,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+849,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+850,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+851,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+852,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+853,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+854,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+855,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+856,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+857,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+858,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+859,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+860,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+861,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+862,No,70-79,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+863,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+864,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+865,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+866,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+867,Yes,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+868,Yes,80+,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+869,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+870,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+871,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+872,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+873,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+874,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+875,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+876,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+877,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+878,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+879,Yes,30-39,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+880,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+881,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+882,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+883,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+884,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+885,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+886,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+887,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+888,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+889,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+890,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+891,Yes,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+892,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+893,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+894,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+895,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+896,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+897,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+898,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+899,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+900,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+901,Yes,60-69,No,Female,Hospitalized and in ICU,Health Care worker,Yes,Ontario,Community Spread
+902,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+903,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+904,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+905,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+906,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+907,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+908,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+909,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+910,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+911,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+912,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+913,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+914,Yes,80+,No,Male,Hospitalized but not in ICU,Health Care worker,Yes,Ontario,Travel History
+915,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+916,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+917,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+918,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+919,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+920,No,40-49,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+921,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+922,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+923,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+924,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+925,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+926,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+927,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+928,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+929,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+930,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+931,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+932,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+933,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+934,No,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+935,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+936,No,40-49,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+937,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+938,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+939,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+940,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+941,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+942,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+943,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+944,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+945,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+946,Yes,80+,No,Male,Not Hospitalized,Long Term Care worker,Not Stated,Atlantic,Community Spread
+947,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+948,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+949,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+950,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+951,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+952,Yes,80+,Yes,Female,Hospitalized but not in ICU,Health Care worker,No,Ontario,Travel History
+953,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+954,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+955,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+956,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+957,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+958,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+959,No,50-59,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+960,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+961,Yes,60-69,No,Male,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+962,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+963,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+964,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+965,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+966,No,30-39,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+967,Yes,70-79,No,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+968,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+969,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+970,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+971,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+972,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+973,No,60-69,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+974,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+975,Yes,50-59,No,Female,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+976,Yes,30-39,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+977,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+978,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+979,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+980,Yes,70-79,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+981,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+982,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+983,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+984,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+985,Yes,30-39,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+986,Yes,50-59,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+987,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+988,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+989,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+990,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+991,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+992,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+993,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+994,Yes,50-59,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+995,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+996,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+997,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+998,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+999,Yes,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1000,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1001,Yes,50-59,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1002,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1003,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1004,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1005,Yes,20-29,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1006,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1007,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1008,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1009,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1010,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1011,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1012,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1013,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1014,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1015,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1016,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1017,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1018,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1019,No,20-29,No,Female,Not Hospitalized,Other,Yes,Prairies,Travel History
+1020,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1021,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1022,No,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Atlantic,Community Spread
+1023,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1024,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1025,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1026,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1027,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1028,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1029,No,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1030,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1031,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1032,Yes,50-59,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1033,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1034,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1035,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1036,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1037,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1038,Yes,20-29,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1039,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1040,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1041,Yes,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1042,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1043,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1044,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1045,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1046,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1047,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1048,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1049,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1050,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1051,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1052,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1053,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1054,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1055,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1056,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1057,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1058,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1059,No,60-69,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+1060,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1061,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1062,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1063,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1064,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1065,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1066,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1067,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1068,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1069,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+1070,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1071,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1072,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,BC,Community Spread
+1073,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1074,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1075,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+1076,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1077,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1078,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1079,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1080,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1081,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1082,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1083,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1084,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1085,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1086,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1087,Yes,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1088,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1089,Yes,20-29,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1090,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1091,Yes,80+,No,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1092,Yes,0-19,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1093,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1094,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1095,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1096,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1097,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1098,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1099,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1100,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1101,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1102,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1103,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1104,Yes,60-69,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1105,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1106,No,30-39,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1107,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1108,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+1109,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1110,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1111,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+1112,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+1113,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1114,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1115,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1116,No,50-59,No,Female,Hospitalized but not in ICU,Other,Yes,BC,Travel History
+1117,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1118,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1119,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1120,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1121,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1122,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1123,No,40-49,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1124,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1125,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1126,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1127,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1128,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Yes,Ontario,Community Spread
+1129,No,40-49,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+1130,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1131,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1132,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1133,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1134,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1135,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1136,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1137,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1138,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1139,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1140,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1141,No,20-29,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1142,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1143,Yes,40-49,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1144,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1145,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1146,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1147,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1148,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1149,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+1150,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1151,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1152,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1153,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1154,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1155,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1156,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1157,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+1158,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1159,Yes,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1160,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1161,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1162,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1163,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1164,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1165,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1166,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1167,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1168,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1169,No,50-59,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+1170,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1171,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1172,Yes,70-79,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1173,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1174,No,40-49,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1175,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1176,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1177,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1178,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1179,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1180,Yes,80+,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+1181,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1182,Yes,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1183,No,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1184,No,20-29,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+1185,No,0-19,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1186,Yes,20-29,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1187,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1189,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+1190,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1191,Yes,80+,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+1192,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1193,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1194,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1195,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1196,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1197,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Travel History
+1198,Yes,80+,No,Female,Hospitalized but not in ICU,Long Term Care worker,Not Stated,Prairies,Community Spread
+1199,Yes,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1200,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1201,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1202,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1203,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1204,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1205,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1206,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1207,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1208,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1209,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1210,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1211,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1212,Yes,50-59,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1213,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1214,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1215,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1216,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1217,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1218,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1219,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1220,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1221,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1222,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1223,Yes,50-59,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1224,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1225,Yes,50-59,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1226,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1227,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1228,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1229,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1230,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1231,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1232,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,Atlantic,Community Spread
+1233,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1234,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1235,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1236,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1237,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1238,No,60-69,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1239,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1240,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1241,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1242,Yes,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1243,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1244,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1245,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1246,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1247,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1248,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1249,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1250,Yes,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1251,No,70-79,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1252,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1253,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1254,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1255,Yes,80+,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1256,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1257,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1258,No,60-69,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1259,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1260,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1261,Yes,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1262,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1263,Yes,80+,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1264,Yes,70-79,No,Female,Hospitalized and in ICU,Other,Not Stated,BC,Travel History
+1265,No,50-59,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+1266,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1267,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1268,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1269,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1270,Yes,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1271,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1272,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1273,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1274,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1275,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+1276,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1277,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1278,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1279,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1280,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1282,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1283,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+1284,No,80+,No,Male,Not Hospitalized,Long Term Care worker,Not Stated,BC,Community Spread
+1285,Yes,30-39,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1286,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1287,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1288,Yes,40-49,No,Male,Hospitalized but not in ICU,Other,Yes,Prairies,Community Spread
+1289,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1290,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1291,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1292,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1293,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1294,Yes,80+,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1295,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1296,Yes,50-59,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1297,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+1298,Yes,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1299,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1300,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1301,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1302,Yes,50-59,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1303,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1304,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1305,Yes,40-49,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1306,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1307,No,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1308,Yes,70-79,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1309,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1310,Yes,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1311,Yes,80+,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1312,Yes,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1313,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1314,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,No,Prairies,Community Spread
+1315,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1316,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1317,Yes,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1318,Yes,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1319,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1320,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1321,No,40-49,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1322,Yes,40-49,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1323,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1324,No,0-19,No,Male,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+1325,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1326,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1327,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1328,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1329,Yes,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1330,Yes,70-79,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1331,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1332,Yes,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1333,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1334,Yes,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1335,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1336,Yes,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1337,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1338,Yes,80+,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1339,No,30-39,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1340,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1341,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1342,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1343,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1344,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1345,Yes,60-69,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+1346,Yes,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1347,Yes,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1348,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1349,Yes,80+,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+1350,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1351,Yes,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1352,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1353,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1354,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1355,Yes,70-79,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Travel History
+1356,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1357,Yes,50-59,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1358,Yes,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1359,Yes,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1360,Yes,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1361,Yes,60-69,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1362,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1363,Yes,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1364,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1365,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1366,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1367,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1368,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1369,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Travel History
+1370,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1371,Yes,70-79,No,Female,Not Hospitalized,Long Term Care worker,Not Stated,BC,Community Spread
+1372,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1373,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1374,Yes,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1375,No,70-79,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+1376,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1377,No,20-29,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1378,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1379,Yes,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1380,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1381,Yes,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1382,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1383,Yes,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1384,Yes,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1385,No,20-29,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1386,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1387,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1388,Yes,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1389,Yes,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1390,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1391,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1392,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1393,Yes,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1394,Yes,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1395,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1396,Yes,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1397,Yes,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1398,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1399,Yes,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1400,Yes,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1401,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1402,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1403,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1404,No,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1405,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1406,No,60-69,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1407,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1408,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1409,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1410,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1411,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1412,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1413,No,70-79,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1414,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1415,No,70-79,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1416,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1417,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1418,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1419,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1420,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1421,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1422,No,40-49,No,Female,Not Hospitalized,Day Care worker,Not Stated,Prairies,Community Spread
+1423,No,40-49,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1424,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1425,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,No,Prairies,Community Spread
+1426,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1427,No,80+,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1428,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1429,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1430,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1431,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1432,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1433,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1434,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1435,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+1436,No,30-39,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1437,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1438,No,30-39,No,Male,Not Hospitalized,Other,Yes,Atlantic,Travel History
+1439,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1440,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1441,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1442,No,70-79,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1443,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1444,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1445,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1446,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1447,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1448,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1449,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1450,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1451,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1452,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1453,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1454,No,60-69,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+1455,Yes,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1456,No,50-59,Yes,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1457,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1458,No,70-79,No,Male,Not Hospitalized,Other,Not Stated,BC,Travel History
+1459,No,60-69,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1460,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1461,No,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1462,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1463,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1464,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1465,No,80+,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+1466,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1467,No,80+,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1468,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1469,No,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1470,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1471,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1472,No,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1473,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1474,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1475,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1476,No,60-69,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1477,No,0-19,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1478,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1479,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1480,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1481,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1482,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1483,No,50-59,Yes,Male,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1484,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1485,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1486,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1487,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1488,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1489,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1490,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1491,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1492,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1493,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1494,No,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1496,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1497,No,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1498,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1499,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1500,No,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1501,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1502,No,60-69,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1503,No,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1504,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1505,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1506,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1507,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1508,No,20-29,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1509,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1510,No,40-49,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+1511,No,80+,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1512,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1513,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1514,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1515,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1516,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1517,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1518,No,60-69,No,Female,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1519,No,80+,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1520,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1521,No,70-79,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1522,No,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1523,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1524,No,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1525,No,40-49,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+1526,No,80+,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1527,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1528,No,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1529,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1530,No,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1531,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1532,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1533,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1534,No,70-79,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1535,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1536,No,80+,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1537,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1538,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1539,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1540,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1541,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1542,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1543,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+1544,No,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1545,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1546,No,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1547,No,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1548,No,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1549,No,60-69,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1550,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1551,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1552,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1553,No,30-39,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1554,No,80+,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1555,No,50-59,Yes,Female,Not Hospitalized,Long Term Care worker,Not Stated,Atlantic,Community Spread
+1556,No,60-69,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1557,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1558,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1559,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1560,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1561,No,60-69,No,Male,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1562,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1563,No,60-69,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1564,No,50-59,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+1565,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1566,No,60-69,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1567,Yes,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1568,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1569,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1570,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1571,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1572,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1573,No,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1574,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1575,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1576,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1577,No,80+,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1578,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1579,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1580,No,60-69,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1581,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1582,No,30-39,No,Female,Not Hospitalized,Other,Yes,BC,Community Spread
+1583,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1584,No,40-49,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1585,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1586,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1587,No,80+,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1588,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1589,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1590,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1591,No,80+,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1592,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1593,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Atlantic,Community Spread
+1594,No,80+,No,Female,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+1595,No,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Atlantic,Community Spread
+1596,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1597,No,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1598,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1599,No,40-49,No,Female,Hospitalized but not in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1600,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Travel History
+1601,No,20-29,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1602,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1603,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1605,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1606,No,60-69,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1607,No,80+,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1608,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1609,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1610,No,70-79,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1611,No,60-69,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1612,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1613,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1614,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1615,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1616,No,60-69,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1617,Yes,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1618,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1619,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1620,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1621,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1622,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1623,No,60-69,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1624,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1625,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,No,Prairies,Community Spread
+1626,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1627,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1628,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1629,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1630,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1631,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1632,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1633,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1634,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1635,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1636,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1637,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1638,No,60-69,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1639,Yes,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1640,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1641,No,60-69,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1642,No,60-69,Yes,Male,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1643,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Atlantic,Community Spread
+1644,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1645,Yes,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1646,No,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1647,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1648,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1649,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1650,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+1651,No,80+,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1652,No,80+,Yes,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1653,No,40-49,No,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1654,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1655,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,BC,Travel History
+1656,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1657,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1658,No,60-69,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1659,No,60-69,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1660,No,60-69,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1661,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1662,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1663,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1664,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1665,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1666,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1667,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1668,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1669,No,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1670,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1671,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1672,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1673,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1674,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1675,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1676,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1677,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1678,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1679,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1680,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1681,No,70-79,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,Prairies,Community Spread
+1682,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1683,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1684,No,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1685,No,70-79,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1686,No,80+,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1687,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1688,No,40-49,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1689,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1690,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Atlantic,Community Spread
+1691,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Travel History
+1692,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1693,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1694,No,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1695,No,80+,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1696,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1697,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+1698,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1699,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1700,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1701,No,70-79,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Travel History
+1702,No,70-79,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1703,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1704,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1705,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1706,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1707,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1708,No,70-79,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Travel History
+1709,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Atlantic,Community Spread
+1710,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1711,No,50-59,Yes,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1712,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1713,No,70-79,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1714,No,30-39,No,Male,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1715,No,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1716,No,0-19,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1717,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1718,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1719,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1720,No,60-69,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1721,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1722,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1723,No,60-69,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1724,No,30-39,No,Female,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1725,No,80+,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1726,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1727,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1728,No,70-79,Yes,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1729,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1730,No,50-59,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Prairies,Community Spread
+1731,No,30-39,No,Male,Not Hospitalized,Other,Yes,Prairies,Travel History
+1732,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1733,No,70-79,Yes,Female,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Travel History
+1734,No,50-59,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1735,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1736,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1737,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1738,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,BC,Community Spread
+1739,No,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1740,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1741,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1742,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1743,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1744,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1745,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1747,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1748,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1749,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1750,No,50-59,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1751,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1752,No,60-69,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1753,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1754,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1755,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1756,No,60-69,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1757,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1758,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1759,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1760,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1761,Yes,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1762,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1763,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,Not Stated,Atlantic,Community Spread
+1764,No,70-79,Yes,Female,Not Hospitalized,Long Term Care worker,Not Stated,BC,Community Spread
+1765,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1766,No,80+,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1767,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1768,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1769,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Travel History
+1770,No,80+,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1771,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1772,No,50-59,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1773,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1774,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1775,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1776,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1777,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1778,No,50-59,No,Female,Hospitalized but not in ICU,Health Care worker,Yes,BC,Community Spread
+1779,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1780,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1781,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1782,No,50-59,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1783,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1784,No,70-79,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+1785,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1786,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1787,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1788,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Atlantic,Travel History
+1789,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1790,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1791,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1792,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1793,No,60-69,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1794,No,80+,Yes,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1795,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1796,No,40-49,No,Male,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1797,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1798,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1799,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1800,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1801,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1802,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1803,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1804,No,80+,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1805,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1806,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1807,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1808,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1809,No,40-49,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1810,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1811,No,60-69,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1812,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1813,No,60-69,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1814,No,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1815,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1816,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1817,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1818,No,70-79,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1819,No,50-59,Yes,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1820,No,60-69,Yes,Male,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Travel History
+1821,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1822,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1823,No,60-69,No,Female,Not Hospitalized,Other,Yes,Atlantic,Travel History
+1824,No,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1825,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1826,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1827,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1828,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1829,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1830,No,50-59,Yes,Male,Hospitalized but not in ICU,Health Care worker,No,Ontario,Community Spread
+1831,No,60-69,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Travel History
+1832,No,60-69,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1833,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1834,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1835,No,40-49,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1836,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1837,No,30-39,No,Male,Hospitalized but not in ICU,Other,Not Stated,BC,Community Spread
+1838,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1839,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1840,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1841,No,50-59,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1842,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1843,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1844,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1845,No,20-29,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1846,Yes,80+,Yes,Male,Hospitalized but not in ICU,Long Term Care worker,No,Prairies,Community Spread
+1847,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1848,No,80+,No,Male,Not Hospitalized,Long Term Care worker,Yes,Atlantic,Community Spread
+1849,No,80+,No,Female,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1850,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1851,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1852,No,0-19,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1853,No,60-69,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Travel History
+1854,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1855,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1856,No,50-59,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1857,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1858,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1859,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1860,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1861,No,70-79,Yes,Female,Not Hospitalized,Other,No,Ontario,Community Spread
+1862,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1863,No,60-69,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1864,No,70-79,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1865,No,70-79,No,Female,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1866,No,70-79,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Travel History
+1867,No,80+,Yes,Female,Not Hospitalized,Long Term Care worker,No,Atlantic,Community Spread
+1868,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1869,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1870,No,0-19,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1871,No,60-69,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1872,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1873,No,70-79,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1874,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1875,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1876,No,50-59,Yes,Male,Not Hospitalized,Other,No,Ontario,Community Spread
+1877,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1878,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1879,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1880,No,20-29,No,Male,Not Hospitalized,Other,Yes,Prairies,Community Spread
+1881,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1882,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1883,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1884,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1885,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1886,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1887,No,30-39,No,Male,Not Hospitalized,Other,Yes,BC,Community Spread
+1888,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1889,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1890,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1891,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Community Spread
+1892,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1893,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1894,No,30-39,No,Female,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1895,No,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1896,No,80+,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1897,No,20-29,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1898,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1899,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1900,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1901,No,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1902,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1903,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1904,No,60-69,Yes,Male,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Travel History
+1905,No,60-69,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1906,No,40-49,No,Female,Not Hospitalized,Other,Yes,Ontario,Travel History
+1907,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1908,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1909,Yes,0-19,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1910,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1911,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1912,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1913,No,50-59,No,Male,Not Hospitalized,Other,Yes,BC,Travel History
+1914,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1915,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1916,No,80+,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1917,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1918,No,50-59,Yes,Female,Not Hospitalized,Other,Not Stated,BC,Community Spread
+1919,No,80+,Yes,Female,Hospitalized but not in ICU,Other,No,Ontario,Community Spread
+1920,No,80+,Yes,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1921,No,60-69,Yes,Female,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Community Spread
+1922,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Travel History
+1923,No,80+,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1924,No,80+,Yes,Female,Hospitalized and in ICU,Health Care worker,Not Stated,Ontario,Travel History
+1925,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1926,No,40-49,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1927,No,80+,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1928,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1929,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1930,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1931,No,20-29,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1932,No,70-79,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1933,No,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1934,No,0-19,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+1935,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1936,No,40-49,No,Male,Hospitalized but not in ICU,Other,Yes,BC,Travel History
+1937,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1938,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Travel History
+1939,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1940,No,40-49,No,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1941,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1942,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1943,No,30-39,No,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1944,No,70-79,Yes,Male,Not Hospitalized,Other,Not Stated,BC,Travel History
+1945,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,BC,Community Spread
+1946,No,80+,Yes,Female,Hospitalized but not in ICU,Long Term Care worker,Not Stated,BC,Community Spread
+1947,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1948,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1949,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1950,No,60-69,Yes,Female,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1951,No,20-29,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1952,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1953,No,50-59,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1954,No,50-59,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1955,No,30-39,No,Male,Hospitalized and in ICU,Other,Not Stated,BC,Community Spread
+1956,No,30-39,No,Male,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1957,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1958,No,50-59,No,Male,Not Hospitalized,Other,Yes,Atlantic,Community Spread
+1959,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1960,No,80+,Yes,Female,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1961,No,60-69,No,Male,Hospitalized and in ICU,Other,Yes,Ontario,Community Spread
+1962,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1963,No,60-69,No,Male,Hospitalized but not in ICU,Other,Yes,Ontario,Community Spread
+1964,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1965,No,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1966,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1967,No,0-19,No,Female,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1968,No,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1969,No,0-19,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1970,No,70-79,Yes,Male,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1971,No,80+,Yes,Male,Hospitalized and in ICU,Other,No,Ontario,Community Spread
+1972,No,60-69,Yes,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1973,No,30-39,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1974,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1975,No,20-29,No,Female,Not Hospitalized,Health Care worker,Not Stated,Prairies,Community Spread
+1976,No,80+,Yes,Male,Not Hospitalized,Long Term Care worker,Not Stated,Prairies,Community Spread
+1977,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1978,No,30-39,No,Female,Not Hospitalized,Health Care worker,Not Stated,Ontario,Travel History
+1979,No,40-49,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1980,No,30-39,No,Male,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1981,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1982,No,40-49,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1983,No,20-29,No,Male,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1984,No,80+,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
+1985,No,20-29,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1986,No,30-39,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1987,No,30-39,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1988,Yes,40-49,No,Female,Not Hospitalized,Other,Not Stated,Prairies,Community Spread
+1989,No,40-49,No,Male,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1990,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1991,No,40-49,No,Female,Not Hospitalized,Health Care worker,Not Stated,Atlantic,Community Spread
+1992,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1993,No,30-39,No,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1994,No,50-59,No,Male,Not Hospitalized,Other,Yes,Ontario,Travel History
+1995,No,50-59,No,Female,Not Hospitalized,Other,Yes,Ontario,Community Spread
+1996,No,80+,Yes,Female,Not Hospitalized,Other,Not Stated,Ontario,Community Spread
+1997,No,70-79,Yes,Male,Hospitalized but not in ICU,Other,Not Stated,Ontario,Community Spread
+1998,No,20-29,No,Female,Not Hospitalized,Health Care worker,Yes,Ontario,Community Spread
+1999,No,60-69,Yes,Female,Hospitalized and in ICU,Other,Not Stated,Ontario,Community Spread
